@@ -28,7 +28,7 @@ This repository showcases a selection of quality roles, but for thousands more j
     <br>
     <br>
     <a href="[https://jobright.ai/?inviteCode=68723914&utm_source=1006](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=apt&dp=pm)">
-        <img src="./static/img/jrbtn.svg" alt="skillsire.com">
+        <img src="./images/logo1.png" alt="skillsire.com">
     </a>
     <br>
     <br>
