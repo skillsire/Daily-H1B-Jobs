@@ -1,7 +1,7 @@
-# Daily H1B & TN VISA Sponsored Jobs by Skillsire.com
-⭐️ **Unlock Your Career with Daily Updated H1B & TN Sponsorship Jobs!** ⭐️
+# Daily H1B & other VISA Sponsored Jobs by Skillsire.com
+⭐️ **Unlock Your Career with Daily Updated H1B & other Sponsorship Jobs!** ⭐️
 
-<p>This repository is your go-to resource for finding the latest <strong>H1B & TN sponsorship jobs</strong>, updated daily for maximum relevance. Stay ahead in your job search with up-to-date listings that track the most recent opportunities.</p>
+<p>This repository is your go-to resource for finding the latest <strong>H1B & other sponsorship jobs</strong>, updated daily for maximum relevance. Stay ahead in your job search with up-to-date listings that track the most recent opportunities.</p>
 
 <p>👉 <strong>Make the most of this resource:</strong></p>
 <ul>
@@ -10,11 +10,11 @@
   <li><strong>Give it a Star</strong> if you find it helpful, and help others discover this valuable resource too!</li>
 </ul>
 
-<p>We hand-pick H1B & TN sponsorship jobs based on criteria that ensure maximum relevance and quality:</p>
+<p>We hand-pick H1B & other sponsorship jobs based on criteria that ensure maximum relevance and quality:</p>
 
 <ul>
-  <li><strong>Explicit Visa Sponsorship</strong>: The job description clearly states H1B & TN sponsorship availability.</li>
-  <li><strong>Proven Sponsorship History</strong>: The company has sponsored H1B & TN roles in the past two years, suggesting a strong likelihood of sponsorship for new positions.</li>
+  <li><strong>Explicit Visa Sponsorship</strong>: The job description clearly states H1B & other sponsorship availability.</li>
+  <li><strong>Proven Sponsorship History</strong>: The company has sponsored H1B & other roles in the past two years, suggesting a strong likelihood of sponsorship for new positions.</li>
 </ul>
 
 <p>✔️ <strong>Looking for a broader range of H1B & TN opportunities?</strong><br>
@@ -51,16 +51,16 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 ---
 
-## Daily H1B Job List  🌐 🧭 🏆
+## Daily H1B & Other Visa Sponsorship Jobs List  🌐 🧭 🏆
 
-⭐: **This job description clearly states H1B & TN sponsorship availability.**
+⭐: **This job description clearly states H1B & Other sponsorship availability.**
 
 ☆: **The company has sponsored roles in this category over the past.**
 
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Job Title |  Level  | Location | H1B & TN status | Link | Date Posted |
+| Company | Job Title |  Level  | Location | H1B & Other Visa status | Link | Date Posted |
 | ------- | --------- |  -----  | -------- | ---------- | ---- | ----------- |
 | **[HNTB](http://www.hntb.com/)** | Geotechnical Project Engineer |  Mid-Level  | Parsippany, NJ | 🏅 | [apply](https://hntb.jobs/parsippany-nj/geotechnical-project-engineer/AFAECDF714544280820F06A132FBC944/job/) | 2024-11-16 |
 | **[AECOM](http://www.aecom.com/)** | Movable Bridge Engineer |  Senior  | Chicago, IL | 🏅 | [apply](https://aecom.jobs/chicago-il/movable-bridge-engineer/24EBBEE9BF2844B2BBE61DAA2B989A40/job) | 2024-11-16 |
