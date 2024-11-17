@@ -60,27 +60,28 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Job Title |  Level  | Location | H1B & Other Visa status | Link | Date Posted |
-| ------- | --------- |  -----  | -------- | ---------- | ---- | ----------- |
-| **[HNTB](http://www.hntb.com/)** | Geotechnical Project Engineer |  Mid-Level  | Parsippany, NJ | 🏅 | [apply](https://hntb.jobs/parsippany-nj/geotechnical-project-engineer/AFAECDF714544280820F06A132FBC944/job/) | 2024-11-16 |
-| **[AECOM](http://www.aecom.com/)** | Movable Bridge Engineer |  Senior  | Chicago, IL | 🏅 | [apply](https://aecom.jobs/chicago-il/movable-bridge-engineer/24EBBEE9BF2844B2BBE61DAA2B989A40/job) | 2024-11-16 |
-| **[Capital One](http://www.capitalone.com)** | Principal Associate, Data Science - Card Intelligence |  Mid-Level  | McLean, VA | 🏅 | [apply](https://www.capitalonecareers.com/job/-/-/234/72581084032) | 2024-11-16 |
-| **[Anthropic](https://www.anthropic.com)** | Machine Learning Systems Engineer, Research Tools |  Mid-Level  | San Francisco, CA | 🏅 | [apply](https://boards.greenhouse.io/anthropic/jobs/4180125008) | 2024-11-16 |
-| **[Capital One](http://www.capitalone.com)** | Senior Data Scientist, AI Foundations |  Senior  | San Francisco, CA | 🏅 | [apply](https://www.capitalonecareers.com/job/-/-/234/72579127440) | 2024-11-16 |
-| ↳ | Principal Associate, Data Scientist, Upmarket Segments (Card) |  Mid-Level  | New York, NY | 🏅 | [apply](https://www.capitalonecareers.com/job/-/-/234/72581084112) | 2024-11-16 |
-| **[EvolutionIQ](http://www.evolutioniq.com)** | Senior DevOps Engineer - Observability |  Senior  | REMOTE | 🏅 | [apply](https://job-boards.greenhouse.io/evolutioniq/jobs/5378976004) | 2024-11-16 |
-| **[Cintal](https://cintal.com)** | CNC Project Manager |  Mid-Level  | Lafayette, IN | 🏅 | [apply](https://cintal.bamboohr.com/careers/440) | 2024-11-16 |
-| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | Staff Security Engineer (SOC AI/ML Specialist) |  Staff  | Santa Clara, CA | 🏅 | [apply](https://www.linkedin.com/jobs/view/staff-security-engineer-soc-ai-ml-specialist-at-palo-alto-networks-4077912250/) | 2024-11-16 |
-| **[Headway](https://headway.co)** | IT Engineer |  Mid-Level  | REMOTE | 🥈 | [apply](https://www.linkedin.com/jobs/view/4076201660/) | 2024-11-16 |
-| **[Kargo](https://mykargo.com/)** | Senior Manager, Engineering |  Senior, Manager  | New York, NY | 🥈 | [apply](https://www.kargo.com/careers?gh_jid=4581520007) | 2024-11-16 |
-| **[Element Biosciences](https://www.elementbiosciences.com)** | Software Test Engineer II |  Mid-Level  | San Diego, CA | 🥈 | [apply](https://job-boards.greenhouse.io/elementbiosciences/jobs/5371164004) | 2024-11-16 |
-| **[EvolutionIQ](http://www.evolutioniq.com)** | Senior DevOps Engineer - Observability |  Senior  | New York, NY | 🏅 | [apply](https://job-boards.greenhouse.io/evolutioniq/jobs/5378977004) | 2024-11-16 |
-| **[Trimble](http://www.trimble.com)** | Embedded Systems Security Engineer |  Mid-Level  | REMOTE | 🥈 | [apply](https://trimblecareers.trimble.com/careers/job/171824704781) | 2024-11-16 |
-| **[Capital One](http://www.capitalone.com)** | Senior Lead Data Engineer (Python, Spark, AWS) |  Senior, Lead  | New York, NY | 🏅 | [apply](https://www.capitalonecareers.com/job/-/-/234/72960380144) | 2024-11-15 |
-| **[Ford Motor](https://www.ford.com)** | ADAS Communications Senior Software Developer |  Senior  | Dearborn, MI | 🏅 | [apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30304) | 2024-11-15 |
-| **[M&T Bank](https://www3.mtb.com/)** | Software Engineer - Java |  Mid-Level  | Buffalo, NY | 🏅 | [apply](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Software-Engineer---Java_R69189) | 2024-11-15 |
-| **[Capital One](http://www.capitalone.com)** | Senior Manager, Software Engineering, Full Stack ( Enterprise Platforms Technology) |  Senior, Manager  | McLean, VA | 🏅 | [apply](https://www.capitalonecareers.com/job/-/-/234/72949192960) | 2024-11-15 |
+| Company | Job Title | Location | H1B & Other Visa status | Link | Date Posted |
+| ------- | --------- | -------- | ---------- | ---- | ----------- |
+| **[Airbyte ](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=github&dp=pm&comp=66780d5ea180151f6f57522a)** | Analytics Engineer | San Francisco, CA | 🏅 | [apply](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=github&dp=pm&jobId=aeb01b673e9ab9fa78014482d742fb65) | 2024-11-17 |
+| **[Bounteous](http://www.bounteous.com)** | Angular Developer | New York, NY | 🏅 | [apply](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=github&dp=pm&jobId=cd5ced33179d06c53a2a174aac0b88a2) | 2024-11-17 |
+| **[HNTB](http://www.hntb.com/)** | Geotechnical Project Engineer | Parsippany, NJ | 🏅 | [apply](https://hntb.jobs/parsippany-nj/geotechnical-project-engineer/AFAECDF714544280820F06A132FBC944/job/) | 2024-11-16 |
+| **[AECOM](http://www.aecom.com/)** | Movable Bridge Engineer | Chicago, IL | 🏅 | [apply](https://aecom.jobs/chicago-il/movable-bridge-engineer/24EBBEE9BF2844B2BBE61DAA2B989A40/job) | 2024-11-16 |
+| **[Capital One](http://www.capitalone.com)** | Principal Associate, Data Science - Card Intelligence | McLean, VA | 🏅 | [apply](https://www.capitalonecareers.com/job/-/-/234/72581084032) | 2024-11-16 |
+| **[Anthropic](https://www.anthropic.com)** | Machine Learning Systems Engineer, Research Tools | San Francisco, CA | 🏅 | [apply](https://boards.greenhouse.io/anthropic/jobs/4180125008) | 2024-11-16 |
+| **[Capital One](http://www.capitalone.com)** | Senior Data Scientist, AI Foundations | San Francisco, CA | 🏅 | [apply](https://www.capitalonecareers.com/job/-/-/234/72579127440) | 2024-11-16 |
+| ↳ | Principal Associate, Data Scientist, Upmarket Segments (Card) | New York, NY | 🏅 | [apply](https://www.capitalonecareers.com/job/-/-/234/72581084112) | 2024-11-16 |
+| **[EvolutionIQ](http://www.evolutioniq.com)** | Senior DevOps Engineer - Observability | REMOTE | 🏅 | [apply](https://job-boards.greenhouse.io/evolutioniq/jobs/5378976004) | 2024-11-16 |
+| **[Cintal](https://cintal.com)** | CNC Project Manager | Lafayette, IN | 🏅 | [apply](https://cintal.bamboohr.com/careers/440) | 2024-11-16 |
+| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | Staff Security Engineer (SOC AI/ML Specialist) | Santa Clara, CA | 🏅 | [apply](https://www.linkedin.com/jobs/view/staff-security-engineer-soc-ai-ml-specialist-at-palo-alto-networks-4077912250/) | 2024-11-16 |
+| **[Headway](https://headway.co)** | IT Engineer | REMOTE | 🥈 | [apply](https://www.linkedin.com/jobs/view/4076201660/) | 2024-11-16 |
+| **[Kargo](https://mykargo.com/)** | Senior Manager, Engineering | New York, NY | 🥈 | [apply](https://www.kargo.com/careers?gh_jid=4581520007) | 2024-11-16 |
+| **[Element Biosciences](https://www.elementbiosciences.com)** | Software Test Engineer II | San Diego, CA | 🥈 | [apply](https://job-boards.greenhouse.io/elementbiosciences/jobs/5371164004) | 2024-11-16 |
+| **[EvolutionIQ](http://www.evolutioniq.com)** | Senior DevOps Engineer - Observability | New York, NY | 🏅 | [apply](https://job-boards.greenhouse.io/evolutioniq/jobs/5378977004) | 2024-11-16 |
+| **[Trimble](http://www.trimble.com)** | Embedded Systems Security Engineer | REMOTE | 🥈 | [apply](https://trimblecareers.trimble.com/careers/job/171824704781) | 2024-11-16 |
+| **[Capital One](http://www.capitalone.com)** | Senior Lead Data Engineer (Python, Spark, AWS) | New York, NY | 🏅 | [apply](https://www.capitalonecareers.com/job/-/-/234/72960380144) | 2024-11-15 |
+| **[Ford Motor](https://www.ford.com)** | ADAS Communications Senior Software Developer | Dearborn, MI | 🏅 | [apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30304) | 2024-11-15 |
+| **[M&T Bank](https://www3.mtb.com/)** | Software Engineer - Java | Buffalo, NY | 🏅 | [apply](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Software-Engineer---Java_R69189) | 2024-11-15 |
+| **[Capital One](http://www.capitalone.com)** | Senior Manager, Software Engineering, Full Stack ( Enterprise Platforms Technology) | McLean, VA | 🏅 | [apply](https://www.capitalonecareers.com/job/-/-/234/72949192960) | 2024-11-15 |
 | ↳ | Distinguished Engineer - Card Servicing |  Principal  | Plano, TX | 🏅 | [apply](https://www.capitalonecareers.com/job/-/-/234/72949193168) | 2024-11-15 |
-| **[Bounteous](http://www.bounteous.com)** | Angular Developer |  Mid-Level  | New York, NY | 🏅 | [apply](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=apt&dp=pm&jobId=cd5ced33179d06c53a2a174aac0b88a2) | 2024-11-15 |
-| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | Sr Principal Software Engineer in Test (SASE) |  Senior, Principal  | Santa Clara, CA | 🏅 | [apply](https://www.linkedin.com/jobs/view/4077469246/) | 2024-11-15 |
+| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | Sr Principal Software Engineer in Test (SASE) | Santa Clara, CA | 🏅 | [apply](https://www.linkedin.com/jobs/view/4077469246/) | 2024-11-15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
