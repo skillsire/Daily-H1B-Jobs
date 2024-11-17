@@ -35,7 +35,7 @@ This repository showcases a selection of quality roles, but for thousands more j
     <i>
     <sub> 
         <h5>
-        Skillsire is here to support you in your job hunt, making it faster and easier to find the most relevant roles. With your personal AI job assistant, you can save time and focus on the best opportunities just for you.
+        Skillsire is here to support you in your job hunt, making it faster and easier to find the most relevant roles. With your personal AI assisted job search, you can save time and focus on the best opportunities just for you.
         </h5>
     </sub>
     </i>
