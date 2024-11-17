@@ -24,7 +24,7 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 <div align="center">
 <p>
-    <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=apt&dp=pm"><b>👇 Revamp your job search & & Secure Your Dream Role 👇</b></a>
+    <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=apt&dp=pm"><b>👇 Revamp your job search & Secure Your Dream Role 👇</b></a>
     <br>
     <br>
     <a href="[https://jobright.ai/?inviteCode=68723914&utm_source=1006](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=apt&dp=pm)">
@@ -43,7 +43,7 @@ This repository showcases a selection of quality roles, but for thousands more j
 <p>
     <sub> 
         <h6>
-            Contact us at <a href="https://www.skillsire.com/contact-us">Skillsire</a> if you want to collaborate or have any feedback .
+            Contact us at <a href="https://www.skillsire.com/contact-us">Skillsire</a> if you want to collaborate or have any feedback.
         </h6>
     </sub>
 </p>
@@ -51,11 +51,11 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 ---
 
-## Daily Job List  🌐 🧭 🏆
+## Daily H1B Job List  🌐 🧭 🏆
 
-🏅: **H1B sponsorship is explicitly mentioned in this JD.**
+⭐: **This job description clearly states H1B sponsorship availability.**
 
-🥈: **The company has sponsored positions of this category in the past three years.**
+☆: **The company has sponsored roles in this category over the past.**
 
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
