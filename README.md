@@ -60,9 +60,6 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-<details>
-<summary>Software Engineer</summary>
-
 | Company | Job Title |  Level  | Location | H1B status | Link | Date Posted |
 | ------- | --------- |  -----  | -------- | ---------- | ---- | ----------- |
 | **[HNTB](http://www.hntb.com/)** | Geotechnical Project Engineer |  Mid-Level  | Parsippany, NJ | 🏅 | [apply](https://jobright.ai/jobs/info/67381425fa84ca9317059f7d?utm_source=1008) | 2024-11-16 |
@@ -109,5 +106,4 @@ This repository showcases a selection of quality roles, but for thousands more j
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | Senior Staff SDET Automation Engineer (Cloud Management Platform) |  Senior, Staff  | Santa Clara, CA | 🏅 | [apply](https://jobright.ai/jobs/info/673637e1750dccd1d2c694cf?utm_source=1008) | 2024-11-14 |
 | **[Ford Motor](https://www.ford.com)** | High Frequency Passive Component and Circuit Design Engineer |  Mid-Level  | Dearborn, MI | 🏅 | [apply](https://jobright.ai/jobs/info/66e130ad205546172fda1952?utm_source=1008) | 2024-11-14 |
 | **[Cintal](https://cintal.com)** | Project Engineer 4 |  Senior  | Mapleton, IL | 🏅 | [apply](https://jobright.ai/jobs/info/6735e47577ebad2afb63db9c?utm_source=1008) | 2024-11-14 |
-</details>
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
