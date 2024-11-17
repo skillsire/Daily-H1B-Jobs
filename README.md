@@ -1,32 +1,41 @@
-# Daily H1B Jobs in Tech by Jobright.ai
+# Daily H1B Jobs by Skillsire.com
+⭐️ **Unlock Your Career with Daily Updated H1B Sponsorship Jobs!** ⭐️
 
-This job repository provides daily updates and tracks the latest  H1B sponsorship jobs in tech. Currently, we focus on four job categories in the United States: **Software Engineer, Product Manager, Marketing, Arts & Design.**
+<p>This repository is your go-to resource for finding the latest <strong>H1B sponsorship jobs</strong>, updated daily for maximum relevance. Stay ahead in your job search with up-to-date listings that track the most recent opportunities.</p>
 
-⚠️ Please note that our high-quality H1B positions are selected based on one of the following criteria:
+<p>👉 <strong>Make the most of this resource:</strong></p>
+<ul>
+  <li><strong>Bookmark</strong> it to stay on top of new updates!</li>
+  <li><strong>Fork</strong> it to customize and share with others in your network!</li>
+  <li><strong>Give it a Star</strong> if you find it helpful, and help others discover this valuable resource too!</li>
+</ul>
 
-- The job description explicitly states that the company sponsors H1B visas.
-- The company has a history of sponsoring such roles in the past two years, indicating a significant likelihood of them sponsoring the newly posted positions.
+<p>We hand-pick H1B sponsorship jobs based on criteria that ensure maximum relevance and quality:</p>
 
-✔️ While this repository includes a fraction of available H1B positions, for a comprehensive list of H1B jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?inviteCode=68723914&utm_source=1006). We curate opportunities that best match your skills and experience from 100,000+ high-quality positions added daily.
+<ul>
+  <li><strong>Explicit Visa Sponsorship</strong>: The job description clearly states H1B sponsorship availability.</li>
+  <li><strong>Proven Sponsorship History</strong>: The company has sponsored H1B roles in the past two years, suggesting a strong likelihood of sponsorship for new positions.</li>
+</ul>
+
+<p>✔️ <strong>Looking for a broader range of H1B opportunities?</strong><br>
+This repository showcases a selection of quality roles, but for thousands more jobs tailored to your skills and experience, visit <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=apt&dp=pm">Skillsire.com</a>. Access <strong>200,000+ updated listings daily</strong> to find the right match for you.</p>
 
 ---
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?inviteCode=68723914&utm_source=1006"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=apt&dp=pm"><b>👇 Revamp your job search & & Secure Your Dream Role 👇</b></a>
     <br>
     <br>
-    <a href="https://jobright.ai/?inviteCode=68723914&utm_source=1006">
-        <img src="./static/img/jrbtn.svg" alt="jobright.ai">
+    <a href="[https://jobright.ai/?inviteCode=68723914&utm_source=1006](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=apt&dp=pm)">
+        <img src="./static/img/jrbtn.svg" alt="skillsire.com">
     </a>
     <br>
     <br>
     <i>
     <sub> 
         <h5>
-        Jobright is your personal AI career assistant, transform your job search from solo, time-consuming efforts 
-        <br>
-        to a co-piloted journey with a seasoned AI career assistant at the helm.
+        Skillsire is here to support you in your job hunt, making it faster and easier to find the most relevant roles. With your personal AI job assistant, you can save time and focus on the best opportunities just for you.
         </h5>
     </sub>
     </i>
@@ -34,7 +43,7 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 <p>
     <sub> 
         <h6>
-            Feedback? Questions? Reach out at <a href="mailto:h1bjobs@jobright.ai">h1bjobs@jobright.ai</a> to help us enhance this list. ❤️
+            Contact us at <a href="https://www.skillsire.com/contact-us">Skillsire</a> if you want to collaborate or have any feedback .
         </h6>
     </sub>
 </p>
