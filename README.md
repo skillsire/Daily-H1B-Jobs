@@ -86,5 +86,5 @@ This repository showcases a selection of quality roles, but for thousands more j
 | **[M&T Bank](https://www3.mtb.com/)** | Software Engineer - Java | Buffalo, NY | ⭐ | [apply](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Software-Engineer---Java_R69189) | 2024-11-15 |
 | **[Capital One](http://www.capitalone.com)** | Senior Manager, Software Engineering, Full Stack ( Enterprise Platforms Technology) | McLean, VA | ⭐ | [apply](https://www.capitalonecareers.com/job/-/-/234/72949192960) | 2024-11-15 |
 | ↳ | Distinguished Engineer - Card Servicing | Plano, TX | ⭐ | [apply](https://www.capitalonecareers.com/job/-/-/234/72949193168) | 2024-11-15 |
-| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | Sr Principal Software Engineer in Test (SASE) | Santa Clara, CA | ⭐ | [apply](https://www.linkedin.com/jobs/view/4077469246/){:target="_blank"} | 2024-11-15 |
+| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | Sr Principal Software Engineer in Test (SASE) | Santa Clara, CA | ⭐ | [apply](https://www.linkedin.com/jobs/view/4077469246/) | 2024-11-15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
