@@ -61,6 +61,7 @@ This repository showcases a selection of quality roles, but for thousands more j
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 <details>
+<summary>Software Engineer</summary>
 | Company | Job Title |  Level  | Location | H1B status | Link | Date Posted |
 | ------- | --------- |  -----  | -------- | ---------- | ---- | ----------- |
 | **[HNTB](http://www.hntb.com/)** | Geotechnical Project Engineer |  Mid-Level  | Parsippany, NJ | 🏅 | [apply](https://jobright.ai/jobs/info/67381425fa84ca9317059f7d?utm_source=1008) | 2024-11-16 |
