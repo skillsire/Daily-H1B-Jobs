@@ -5,9 +5,10 @@
 
 <p>👉 <strong>Make the most of this resource:</strong></p>
 <ul>
+  <li><strong>Become a Watcher</strong> to get notified of the latest opportunities as soon as they’re posted!</li>
+  <li><strong>Give it a Star</strong> if you find it helpful, and help others discover this valuable resource too!</li>
   <li><strong>Bookmark</strong> it to stay on top of new updates!</li>
   <li><strong>Fork</strong> it to customize and share with others in your network!</li>
-  <li><strong>Give it a Star</strong> if you find it helpful, and help others discover this valuable resource too!</li>
 </ul>
 
 <p>We hand-pick H1B & other sponsorship jobs based on criteria that ensure maximum relevance and quality:</p>
@@ -18,16 +19,16 @@
 </ul>
 
 <p>✔️ <strong>Looking for a broader range of H1B & TN opportunities?</strong><br>
-This repository showcases a selection of quality roles, but for thousands more jobs tailored to your skills and experience, visit <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=apt&dp=pm">Skillsire.com</a>. Access <strong>200,000+ updated listings daily</strong> to find the right match for you.</p>
+This repository showcases a selection of quality roles, but for thousands more jobs tailored to your skills and experience, visit <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=github&dp=pm">Skillsire.com</a>. Access <strong>200,000+ updated listings daily</strong> to find the right match for you.</p>
 
 ---
 
 <div align="center">
 <p>
-    <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=apt&dp=pm"><b>👇 Revamp your job search & Secure Your Dream Role 👇</b></a>
+    <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=github&dp=pm"><b>👇 Revamp your job search & Secure Your Dream Role 👇</b></a>
     <br>
     <br>
-    <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=apt&dp=pm">
+    <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiredailyH1Brepo&utm_campaign=githubrepo&utm_content=github&dp=pm">
         <img src="./images/logo1.png" alt="skillsire.com">
     </a>
     <br>
