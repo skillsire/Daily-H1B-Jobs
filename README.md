@@ -3,12 +3,12 @@
 
 <p>This repository is your go-to resource for finding the latest <strong>H1B & other sponsorship jobs</strong>, updated daily for maximum relevance. Stay ahead in your job search with up-to-date listings that track the most recent opportunities.</p>
 
-<p>👉 <strong>Make the most of this resource:</strong></p>
+<p>⚠️ <strong>Make the most of this resource:</strong></p>
 <ul>
-  <li><strong>Become a Watcher</strong> to get notified of the latest opportunities as soon as they’re posted!</li>
-  <li><strong>Give it a Star</strong> if you find it helpful, and help others discover this valuable resource too!</li>
-  <li><strong>Bookmark</strong> it to stay on top of new updates!</li>
-  <li><strong>Fork</strong> it to customize and share with others in your network!</li>
+  <li>👁 <strong>Become a Watcher</strong> to get notified of the latest opportunities as soon as they’re posted!</li>
+  <li>⭐ <strong>Give it a Star</strong> if you find it helpful, and help others discover this valuable resource too!</li>
+  <li>🏷 <strong>Bookmark</strong> it to stay on top of new updates!</li>
+  <li>🍴 <strong>Fork</strong> it to customize and share with others in your network!</li>
 </ul>
 
 <p>We hand-pick H1B & other sponsorship jobs based on criteria that ensure maximum relevance and quality:</p>
